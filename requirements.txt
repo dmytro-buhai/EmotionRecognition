@@ -1,6 +1,7 @@
 numpy
 pandas
 seaborn
+contractions
 neattext
 plotly
 scikit-learn
